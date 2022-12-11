@@ -1,3 +1,5 @@
+# PERIAND Yanis, URAN Murat, AKGUN Alexan, BIJOU Nathan
+
 echo " "
 echo "L'installation de Jenkins va démarrer ..."
 echo " "
